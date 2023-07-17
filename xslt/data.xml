@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+
+
+<students>
+    <student id='1'>
+        <name>abc</name>
+        <contact>3242532</contact>
+        <email>i@me.com</email>
+    </student>
+
+    <student>
+    
+    </student>
+
+    <student id='2'>
+        <name>def</name>
+        <contact>3532</contact>
+        <email>i@yiu.com</email>
+    </student>
+
+    <student id='3'>
+        <name>ghi</name>
+        <contact>3242</contact>
+        <email>you@me.com</email>
+    </student>
+
+    <student id='4'>
+        <name>jkl</name>
+        <contact>24232</contact>
+        <email>you@us.com</email>
+    </student>
+</students>

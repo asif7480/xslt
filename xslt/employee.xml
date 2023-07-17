@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="employee.xsl" type="text/xsl"?>
+<employees>
+    <employee id="1001">
+        <name>Asif</name>
+        <contact>285723</contact>
+        <email>xyz@gmail.com</email>
+    </employee>
+    <employee id="1002">
+        <name>Ali</name>
+        <contact>8523</contact>
+        <email>abc@gmail.com</email>
+    </employee>
+    <employee id="1003">
+        <name>Ahmed</name>
+        <contact>5246</contact>
+        <email>ghi@gmail.com</email>
+    </employee>
+</employees>
